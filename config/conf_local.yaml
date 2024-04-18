@@ -1,0 +1,15 @@
+PLATFORM_API:
+  URL: "http://localhost:8080/api/v1/template/employee"
+
+SCHEDULER:
+  UPDATE: 15
+
+LOGGER:
+  PRODUCTION: "production"
+  DEVELOPMENT: "development"
+
+SCANNING_OPTS:
+  PATH: "."
+  FORMAT: ".xlsx"
+
+THIS_APP_URL: "localhost:3003"
